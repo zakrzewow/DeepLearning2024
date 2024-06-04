@@ -4,3 +4,4 @@
 !experiments_keras_ddim.ipynb
 !experiments_keras_ddpm.ipynb
 !ddim_*.png
+!latent.png
